@@ -2,7 +2,7 @@
 Like a dev kit for personal use
 
 ## Basics:
-- Get profile 
+- Get profile as root user
 ```shell 
-sudo curl https://raw.githubusercontent.com/Hasardine/dev/main/profile >> /etc/profile 
+curl https://raw.githubusercontent.com/Hasardine/dev/main/profile >> /etc/profile 
 ```
